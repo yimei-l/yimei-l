@@ -32,7 +32,25 @@ I am a researcher specializing in **climate policy scenario analysis** and **ene
 - Model coupling (bottom-up & top-down integration)
 - Life Cycle Assessment (LCA) integration
 - Uncertainty and sensitivity analysis
+## 🛠️ Technical Stack
 
+### **Programming & Modeling**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![GAMS](https://img.shields.io/badge/GAMS-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyNCIgZmlsbD0id2hpdGUiPkdBTVM8L3RleHQ+PC9zdmc+&logoColor=white)
+
+### **Frameworks & Libraries**
+![Pyomo](https://img.shields.io/badge/Pyomo-306998?style=for-the-badge&logo=python&logoColor=white)
+![TIMES](https://img.shields.io/badge/TIMES-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
+![OpenLCA](https://img.shields.io/badge/OpenLCA-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-3D8B3D?style=for-the-badge&logo=map&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
 ## 📊 Featured Project: Master's Thesis
