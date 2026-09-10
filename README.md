@@ -1,6 +1,6 @@
 # Yimei Li | Energy-Economy-Environment Systems Modeler
 
-**PhD Candidate in Climate & Energy Policy Modeling** | **Bridging Engineering Rigor, Economic Analysis, and Systems Optimization**
+**Climate & Energy Policy Modeling** | **Bridging Engineering Rigor, Economic Analysis, and Systems Optimization**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Civil+Engineering+→+Climate+Finance+→+System+Modeling;Integrated+Assessment+Modeling+(IAM);Energy+Systems+Optimization+(TIMES);Computable+General+Equilibrium+(CGE);Open+Science+for+Climate+Policy)](https://git.io/typing-svg)
 
