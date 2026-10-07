@@ -82,7 +82,7 @@ I'm actively seeking PhD opportunities in climate-energy policy modeling.
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Location**: Paris, France / Beijing, China
+- **Location**: Nice, France / Beijing, China
 
 ## 📫 Connect With Me
 
